@@ -1,0 +1,9 @@
+- Necesitamos tener encendido el XAMPP con Apache y MySQL encendidos.
+- Ingresar en la URL localhost/phpmyadmin o la URL donde esté alojada el gestor de bbbdd local de PhpMyAdmin
+- Meter el script para crear la tabla
+
+Con el XAMPP instalado debemos meternos en el directorio donde hayamos instalado XAMPP
+y meter dentro la carpeta raiz del proyecto (prueba_goventure): Ejemplo
+C:/xampp/htdocs/prueba_goventure
+
+Abrir el navegador y escribir localhost/prueba_goventure/crear_proyecto.php, está probado y funciona
